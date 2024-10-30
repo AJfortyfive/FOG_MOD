@@ -38,7 +38,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
     <!-- Begin FOG Central Economy, add this section to your Economy Core-->
     <ce folder="FOG_CE">
 		<file name="FOG_Types.xml" type="types" />
-        <file name="FOG_Spawnabletypes.xml" type="spawnabletypes" />
+		<file name="FOG_Spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
     <!-- End FOG Central Economy-->
 </economycore>
