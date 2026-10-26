@@ -1,6 +1,8 @@
 # FOG_MOD_Wiki
 This is the public wiki for the DayZ FOG Mod
 
+The mod's `config.cpp` and `model.cfg` files are in [`configs/`](configs), readable without unpacking the mod.
+
 
 ```
             __ __ __    ________  ___   ___   ________      ______   __  __   __     _________  
